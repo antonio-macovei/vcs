@@ -1,0 +1,12 @@
+# Archives $
+
+*.zip
+*.tar
+*.rar
+*.7z
+
+# Environment specific files #
+
+*.iml
+.idea/
+out/
